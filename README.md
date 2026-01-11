@@ -5,14 +5,12 @@ main script is test.bb
 
 you need the bullet physics api wrapper .dll and .decls for this project to work: https://www.blitzbasic.org/forum/topic.php?id=438
 
-### files you may not want to redistribute commercially (borrowed assets):
+### borrowed assets:
 - assets\LFS_road_noise.wav -- recorded from Live for Speed
 - assets\LFS_skid -- recorded from Live for Speed
 
-.
-
 other assets are mine, (CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.en)
 
-
+.
 
 ``include\BlitzBullet.bb`` is derived from the physics wrapper mentioned above and is **NOT** subject to CC0-1.0
