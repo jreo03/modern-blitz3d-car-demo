@@ -13,4 +13,4 @@ other assets are mine, (CC BY 4.0: https://creativecommons.org/licenses/by/4.0/d
 
 
 
-include\BlitzBullet.bb is from the physics wrapper link and are NOT subject to CC0-1.0
+``include\BlitzBullet.bb`` is derived from the physics wrapper mentioned above and is **NOT** subject to CC0-1.0
