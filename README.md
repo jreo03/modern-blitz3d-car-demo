@@ -10,6 +10,7 @@ you need the bullet physics api wrapper .dll and .decls for this project to work
 - assets\LFS_skid -- recorded from Live for Speed
 
 other assets are mine (CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.en)
+
 you're free to use my code however you want (CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
 .
